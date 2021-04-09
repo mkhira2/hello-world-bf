@@ -4,7 +4,7 @@ Just trying to stay up to date with the latest languages, you know.
 
 
 ## Screenshot
-![Hello World BF](/images/helloWorld.png)
+![Hello World BF](/images/helloworld.png)
 
 ## License
 
